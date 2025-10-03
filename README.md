@@ -15,7 +15,7 @@
   <a href="https://oriondriftvr.com">orion drift</a> |  
   <a href="https://www.gorillatagvr.com">gorilla tag</a> |  
   <a href="https://rec.net">rec room</a> |
-  <a href="https://www.roblox.com/home">roblox</a>
+  <a href="https://www.roblox.com">roblox</a>
 </p>  
 
 ---
