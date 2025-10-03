@@ -2,10 +2,10 @@
   <img src="https://github.com/astraldamonk/astraldamonk/blob/main/hello.png?raw=true" width="80%">
 </p>
 
-<h3 align="center">i love modding</h3>
+<h3 align="center">i love seals</h3>
 
 <p align="center">
-  i've been messing with games for a while, including decompiling just to see how they work.  
+  i've been messing with games for a while, and i try to help developers fix vulnerabilities.  
 </p>
 
 <h3 align="center">games i play</h3>
