@@ -66,4 +66,5 @@
   <img src="locked-in-cat.gif" height="100">
   <img src="drool-cat.gif" height="100">
   <img src="comfy-cat.gif" height="100">
+  <img src="dnce.gif" height="100">
 </p>
