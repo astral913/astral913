@@ -11,7 +11,7 @@
 <h3 align="center">games i play</h3>
 
 <p align="center">  
-  <a href="https://www.stresslevelzero.com">bonelab</a> |
+  <a href="https://www.stresslevelzero.com">bonelab</a> |  
   <a href="https://oriondriftvr.com">orion drift</a> |  
   <a href="https://www.gorillatagvr.com">gorilla tag</a> |  
   <a href="https://rec.net">rec room</a> |
