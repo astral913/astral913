@@ -22,7 +22,7 @@
 
 <h3 align="center">current projects</h3>
 <p align="center">
-  UEMF (unreal engine modding framework)
+  uemf (unreal engine modding framework)
 </p>  
 
 ---
