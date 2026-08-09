@@ -17,14 +17,6 @@
   <a href="https://rec.net">rec room</a> |
   <a href="https://www.roblox.com">roblox</a>
 </p>  
-
----
-
-<h3 align="center">current projects</h3>
-<p align="center">
-  uemf (unreal engine modding framework)
-</p>  
-
 ---
 
 <h3 align="center">languages & tools</h3>
