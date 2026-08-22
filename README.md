@@ -1,5 +1,5 @@
 <div align="center">
-  helli am astral
+  # hello, i am astral :3
 </div>
 
 <p align="center">
