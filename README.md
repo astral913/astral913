@@ -17,7 +17,6 @@
   <a href="https://rec.net">rec room</a> |
   <a href="https://www.roblox.com">roblox</a>
 </p>  
----
 
 <h3 align="center">languages & tools</h3>
 
