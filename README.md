@@ -1,5 +1,5 @@
 <div align="center">
-  hello, i am astral :3
+  hello, i am astral
 </div>
 <p align="center">
   i've been messing with games for a while, and i try to help developers fix vulnerabilities.  
