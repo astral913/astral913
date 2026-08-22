@@ -1,6 +1,7 @@
 <div align="center">
-  hello, i am astral
+  helli am astral
 </div>
+
 <p align="center">
   i've been messing with games for a while, and i try to help developers fix vulnerabilities.  
 </p>
