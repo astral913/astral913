@@ -18,7 +18,7 @@
   <a href="https://www.roblox.com">roblox</a>
 </p>  
 
-<h3 align="center">languages i know / am learning</h3>
+<h3 align="center">languages i know</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
